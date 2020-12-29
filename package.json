@@ -23,7 +23,7 @@
         "dryice": "0.4.10",
 
         "mappings": "0.1.x",
-        "amd-loader": "0.0.4",
+        "amd-loader": "0.0.8",
         "async": "0.1.21",
         "netutil": "0.0.1",
         "architect": "0.1.4",
