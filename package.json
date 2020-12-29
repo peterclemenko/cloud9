@@ -16,7 +16,7 @@
 
         "sourcemint-loader-js": "0.x",
         "sourcemint-platform-nodejs": "0.x",
-        "http-error": "0.0.1",
+        "http-error": "0.0.6",
         "simple-template": "0.0.1",
 
         "optimist": "0.3.4",
