@@ -26,7 +26,7 @@
         "amd-loader": "0.0.4",
         "async": "0.1.21",
         "netutil": "0.0.1",
-        "architect": "0.1.4",
+        "architect": "0.1.13",
         "connect-architect": "0.0.6",
 
         "smith": "0.1.9",
