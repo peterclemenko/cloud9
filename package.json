@@ -24,7 +24,7 @@
 
         "mappings": "0.1.x",
         "amd-loader": "0.0.4",
-        "async": "0.1.21",
+        "async": "3.2.2",
         "netutil": "0.0.1",
         "architect": "0.1.4",
         "connect-architect": "0.0.6",
